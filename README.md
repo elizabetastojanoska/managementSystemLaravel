@@ -1,4 +1,5 @@
 Task Manager
+
 A simple Laravel application to manage projects, tasks, and categories. The application provides an API as well as a user interface to interact with projects, tasks, and categories, including filtering and marking tasks as completed.
 
 Features
