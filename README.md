@@ -16,7 +16,7 @@ Setup Instructions
 Step 1: Clone the Repository
 Clone the project repository to your local machine:
 
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/elizabetastojanoska/managementSystemLaravel.git
 
 Navigate to the project directory:
 
