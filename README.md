@@ -38,11 +38,17 @@ Step 4: Configure Database
 In the .env file, configure the database connection. For example, if you're using MySQL:
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=task_manager
+
 DB_USERNAME=root
+
 DB_PASSWORD=
+
 Make sure you have a database called task_manager (or whatever you specify) created in your MySQL database.
 
 Step 5: Generate Application Key
